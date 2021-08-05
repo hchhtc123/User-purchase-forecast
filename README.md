@@ -12,7 +12,11 @@
 -|data
 -|work
 -README.MD
--xxx.ipynb
+-baseline.ipynb
+```
+
+## 使用说明
+直接运行baseline.ipynb即可
 
 ## AI Studio项目地址：
 
