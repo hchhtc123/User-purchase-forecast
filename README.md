@@ -9,15 +9,17 @@
 
 ## 项目结构
 ```
--|data
--|work
--README.MD
--baseline.ipynb
+-README.MD       
+-baseline.ipynb        # 主代码
+-MLP_model.pdparams    # 训练好的模型参数
+-requirments.txt       # 环境依赖说明
+-数据集下载地址.txt    # 数据集下载地址，由于数据集较大故没有上传需自行下载
+-result.csv            # 提交结果文件
 ```
 
 ## 使用说明
 直接运行baseline.ipynb即可
 
 ## AI Studio项目地址：
-
+https://aistudio.baidu.com/aistudio/projectdetail/2217360
 
